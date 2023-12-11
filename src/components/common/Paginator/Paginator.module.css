@@ -1,0 +1,11 @@
+.dataStyle {
+    color: rgba(225, 227, 230, 0.562);
+    padding-left: 17px;
+    border-radius: 5px;
+    font-size: 13px;
+    line-height: 15.002px;
+    text-align: left;
+    direction: ltr;
+    display: block;
+    font-family: -apple-system, BlinkMacSystemFont;
+}

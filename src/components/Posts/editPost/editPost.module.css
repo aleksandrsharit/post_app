@@ -1,0 +1,9 @@
+.button {
+    padding-top: 20px;
+}
+
+.inputClass {
+    height: 40px;
+    width: 250px;
+    resize: both;
+}

@@ -1,0 +1,14 @@
+.post_box {
+    position: relative;
+    background: rgb(255, 255, 255, 0.07);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+}
+
+.post_box_child {}
+
+
+.formTextarea {
+    height: 50px;
+}

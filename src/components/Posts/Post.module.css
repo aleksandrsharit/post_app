@@ -1,0 +1,59 @@
+.postContainer {
+    background-color: rgb(255, 255, 255, 0.07);
+    border-radius: 10px;
+    margin-top: 25px;
+}
+
+.postContainerChild {
+    line-height: 1%;
+    display: flex;
+    grid-template-columns: 1fr auto;
+}
+
+.imageTitle img {
+    width: 50px;
+    height: 60px;
+    flex: 1;
+    padding-top: 3px;
+    border-radius: 20px;
+}
+
+.postTitle {
+    padding-bottom: 3px;
+    flex: 1;
+}
+
+.postLinkInfo {
+    text-decoration: none;
+}
+
+.postLinkInfo:hover {
+    font-size: 130%;
+}
+
+
+.titleChild {
+    padding: 20px;
+
+}
+
+.timeDate {
+    grid-area: v;
+}
+
+.postBody {
+    padding: 20px;
+    margin-top: 15px;
+    color: rgb(216, 211, 211);
+}
+
+
+
+
+
+
+
+/* .postTitleChild {
+    color: rgb(237, 234, 238);
+    font-size: 17px;
+} */
